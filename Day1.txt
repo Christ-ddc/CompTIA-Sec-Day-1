@@ -1,0 +1,32 @@
+https://208.8.8.144/otrs/index.pl
+root@localhost
+C1sc0123
+
+5 types of SOC tickets
+1. Phising|SMSing & Malicious Email Tickets
+Why common: Email/SMS is the top attack vector
+2. Endpoint Malware/Virus Detection Ticket
+
+
+https://208.8.8.144/otrs/customer.pl
+user1
+C1sc0123
+
+http://208.8.8.144:8069
+itil@rivanschool.com
+http://208.8.8.144
+
+
+*****
+
+
+basic palo alto commands
+configure
+
+set deviceconfig system type dhcp-client
+
+commit
+
+exit
+
+show interface meanagement
